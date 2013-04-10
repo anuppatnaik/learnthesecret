@@ -1,0 +1,14 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Corben', Georgia, Times, serif;
+    color: #fff;
+}
+p, div {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+}
+
+h1 { 
+    text-shadow: 1px 1px 1px #ccc;
+}
+.div-shadow { 
+    box-shadow: 0 0 0.5em 0.5em #ccc;
+}
